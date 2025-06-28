@@ -1,8 +1,10 @@
-<h1 align="center">DORRR 🔫<br></h1>
+<h1 align="center">
+  <img src="https://github.com/bsiproject/bsiproject/blob/main/img/dorrr.gif?raw=true" alt="DORRR 🔫" />
+</h1>
 
 <div align="center">
 
-### 💻 My Skills
+### 💻 Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,8 +36,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=bsiproject&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/1lX62THs1T9smDuRvJ/giphy.gif" width="800" />
-</div>
+<h1 align="center">
+  <img src="https://github.com/bsiproject/bsiproject/blob/main/img/BSI Project.png?raw=true" alt="DORRR 🔫" />
+</h1>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
